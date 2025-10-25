@@ -91,7 +91,6 @@ matlab
 advanced_compression();
 
 📊 Example Output
-text
 
 Original signal length: 132300 samples
 Sampling rate: 44100 Hz
@@ -145,8 +144,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
     DCT compression principles
 
     Digital audio processing concepts
-
-text
 
 
 ## Key Improvements Made:
